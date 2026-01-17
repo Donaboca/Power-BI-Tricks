@@ -3,6 +3,9 @@
 - [Dynaaminen PBI matriisin rivien ja sarakkeiden suodatus](#dynaaminen-pbi-matriisin-rivien-ja-sarakkeiden-suodatus)
 - [User Defined Functions, käyttäjän määrittelemät funktiot](#user-defined-functions-käyttäjän-määrittelemät-funktiot)
   - [Toinen esimerkki UDF:n käytöstä](#Toinen-esimerkki-udfn-käytöstä)
+  - [Käyttäjän valinta UDF-parametrina](#käyttajan-valinta-udf-parametrina)
+ 
+ 
 ### Dynaaminen PBI matriisin rivien ja sarakkeiden suodatus
 Esimerkki lopputuloksesta miten PBI matriisin rivejä ja sarakkeita voi raportin käyttäjän toimesta suodattaa dynaamisesti.
 
@@ -50,4 +53,15 @@ Vs. ratkaisu, jossa mittarit käyttävät funktiota.
 Laskennan lopputulokset ovat (tietenkin) identtisiä.
 
 ![Visualitointi - laskennan lopputuloksessa ei ole eroa](Visu.png)
+
+
+#### Käyttäjän valinta UDF-parametrina
+
+Mittari voidaan tehdä myös ottamaan käyttäjän valinta, joka toimii dynaamisena parametrina funktiolle.
+
+![](Mittari%20UDF%20ja%20dynaaminen%20parametri.png)
+
+Esimerkki, miten laskenta tapahtuu dynaamisesti.
+
+![](UDF%20Dynamic%20Parameter.gif)
 
