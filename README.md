@@ -3,7 +3,7 @@
 - [Dynaaminen PBI matriisin rivien ja sarakkeiden suodatus](#dynaaminen-pbi-matriisin-rivien-ja-sarakkeiden-suodatus)
 - [User Defined Functions, käyttäjän määrittelemät funktiot](#user-defined-functions-käyttäjän-määrittelemät-funktiot)
   - [Toinen esimerkki UDF:n käytöstä](#Toinen-esimerkki-udfn-käytöstä)
-  - [Käyttäjän valinta UDF-parametrina](#käyttajan-valinta-udf-parametrina)
+  - [Käyttäjän valinta UDF-parametrina](#käyttäjän-valinta-udf-parametrina)
  
  
 ### Dynaaminen PBI matriisin rivien ja sarakkeiden suodatus
