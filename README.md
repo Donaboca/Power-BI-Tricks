@@ -57,7 +57,7 @@ Laskennan lopputulokset ovat (tietenkin) identtisiä.
 
 #### Käyttäjän valinta UDF-parametrina
 
-Mittari voidaan tehdä myös ottamaan käyttäjän valinta, joka toimii dynaamisena parametrina funktiolle.
+Mittari voidaan tehdä myös ottamaan käyttäjän valinta, joka toimii dynaamisena parametrina funktiolle. Huom, tässä käytetään samaa funktiota, joka on esitelty edellisessä kohdassa.
 
 ![](Mittari%20UDF%20ja%20dynaaminen%20parametri.png)
 
