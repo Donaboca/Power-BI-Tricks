@@ -1,22 +1,25 @@
 # Power BI Tricks
 ## Sisällysluettelo
-- [Dynaaminen PBI matriisin rivien ja sarakkeiden suodatus](#dynaaminen-pbi-matriisin-rivien-ja-sarakkeiden-suodatus)
-- [User Defined Functions, käyttäjän määrittelemät funktiot](#user-defined-functions-käyttäjän-määrittelemät-funktiot)
+- [Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus](#dynaaminen-power-bi-matriisin-rivien-ja-sarakkeiden-suodatus)
+- [User Defined Functions - Käyttäjän määrittelemät funktiot](#user-defined-functions-käyttäjän-määrittelemät-funktiot)
   - [Toinen esimerkki UDF:n käytöstä](#Toinen-esimerkki-udfn-käytöstä)
   - [Käyttäjän valinta UDF-parametrina](#käyttäjän-valinta-udf-parametrina)
+- [Calculation Groups - Laskentaryhmät ](#calculation-groups-laskentaryhmät) 
  
- 
-### Dynaaminen PBI matriisin rivien ja sarakkeiden suodatus
-Esimerkki lopputuloksesta miten PBI matriisin rivejä ja sarakkeita voi raportin käyttäjän toimesta suodattaa dynaamisesti.
+--- 
+### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
+Lopputulos Power BI matriisin rivien ja sarakkeiden dynaamisesta suodatuksesta.
 
-Esimerkissä oleva data on peräisin Microsoftin Contoso demodataa.
+Esimerkissä oleva data on Microsoftin Contoso demodataa.
+<br>
 
 ![GIF, joka näyttää miten raportin slicer muuttaa näkymää](Demotiedosto.gif)
 
 <br>
 
-### User Defined Functions, käyttäjän määrittelemät funktiot
-Esimerkkinä numeron muotoilu. Perinteinen tapa vaatii muotoilumerkkijonon tai DAX-koodia jokaiseen mittariin, johon muotoilu halutaan kohdistaa. Käyttäjän määrittelemällä funktiolla toki vaatii saman toimenpiteen, mutta koodia ei tarvitse kirjoittaa toisteisesti ja ylläpito helpottuu. Muutokset voidaan tehdä pelkästään funktioon.
+---
+### User Defined Functions - Käyttäjän määrittelemät funktiot
+Esimerkkinä numeron muotoilu. Perinteinen tapa vaatii muotoilumerkkijonon tai DAX-koodia jokaiseen mittariin, johon muotoilu halutaan kohdistaa. Käyttäjän määrittelemällä funktiolla toki vaatii saman toimenpiteen, mutta koodia ei tarvitse kirjoittaa toisteisesti ja ylläpito helpottuu. Mahdolliset muutokset täytyy tehdä funktiota käytettäessä vain yhteen paikkaan.
 
 Muotoile-kohtaan asetetaan esim. seuraava DAX-koodi.
 
@@ -65,3 +68,25 @@ Esimerkki, miten laskenta tapahtuu dynaamisesti.
 
 ![](UDF%20Dynamic%20Parameter.gif)
 
+---
+### Calculation Groups - Laskentaryhmät
+
+Laskentaryhmillä saadaan mukavasti rajoitettua mittarien määrää, jolloin ylläpidosta tulee helpompaa ja datapaneeli pysyy kuosissa. Alla tästä esimerkki.
+
+Perusmittari
+
+![Esimerkki perusmittarista](CG%20Measure.png)
+
+Laskentaryhmään tehty neljä eri aikalaskentaa.
+
+![Laskentaryhmä](CG%20Model.png)
+
+Yksittäisen laskentakohteen koodi.
+
+![Yksittäisen laskentakohteen koodi](CG%20Code.png)
+
+Esimerkki lopputuloksesta visualisoinnin muodossa.
+
+![Visualitointi 1](CG1.png)
+
+![Visualitointi 2](CG2.png)
