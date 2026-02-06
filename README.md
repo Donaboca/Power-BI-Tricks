@@ -96,5 +96,5 @@ Esimerkki lopputuloksesta visualisoinnin muodossa.
 ### Uutta Power BI:ssä (tammikuu 2026) - Porautuminen suoraan työkaluvihjeestä
 Huom! Lievä hitaus porautumisessa johtuu todennäköisesti mallitiedoston tietomallista ja siinä olevista lukuisista kaksisuuntaisista suhteista.
 
-Tämän myötä raportin käyttäjä pääsee porautumaan hieman helpommin.
+Uuden toiminnallisuuden myötä raportin käyttäjä pääsee porautumaan tarkemmalle tasolle tietoon hieman helpommin.
 ![](DrillThrough%20from%20Tooltip.gif)
