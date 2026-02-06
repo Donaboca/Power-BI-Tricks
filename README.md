@@ -5,7 +5,7 @@
   - [Toinen esimerkki UDF:n käytöstä](#Toinen-esimerkki-udfn-käytöstä)
   - [Käyttäjän valinta UDF-parametrina](#käyttäjän-valinta-udf-parametrina)
 - [Calculation Groups - Laskentaryhmät ](#calculation-groups---laskentaryhmät)
-- [Uutta Power BI:ssä (tammikuu 2026) - Porautuminen suoraan työkaluvihjeestä](#uutta-power-bissa-tammikuu-2026---porautuminen-suoraan-tyokaluvihjeesta)
+- [Uutta Power BI:ssä (tammikuu 2026) - Porautuminen suoraan työkaluvihjeestä](#uutta-power-bissä-tammikuu-2026---porautuminen-suoraan-työkaluvihjeestä)
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
