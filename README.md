@@ -4,7 +4,8 @@
 - [User Defined Functions - Käyttäjän määrittelemät funktiot](#user-defined-functions---käyttäjän-määrittelemät-funktiot)
   - [Toinen esimerkki UDF:n käytöstä](#Toinen-esimerkki-udfn-käytöstä)
   - [Käyttäjän valinta UDF-parametrina](#käyttäjän-valinta-udf-parametrina)
-- [Calculation Groups - Laskentaryhmät ](#calculation-groups---laskentaryhmät) 
+- [Calculation Groups - Laskentaryhmät ](#calculation-groups---laskentaryhmät)
+- [Uutta Power BI:ssä (tammikuu 2026) - Porautuminen suoraan työkaluvihjeestä](#uutta-power-bissä--tammikuu-2026----porautuminen-suoraan-työkaluvihjeestä)
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
@@ -90,3 +91,8 @@ Esimerkki lopputuloksesta visualisoinnin muodossa.
 ![Visualitointi 1](CG1.png)
 
 ![Visualitointi 2](CG2.png)
+
+---
+### Uutta Power BI:ssä (tammikuu 2026) - Porautuminen suoraan työkaluvihjeestä
+Huom! Lievä hitaus porautumisessa johtuu tietomallista ja siinä olevista lukuisista kaksisuuntaisista suhteista.
+![](DrillThrough%20from%20Tooltip.gif)
