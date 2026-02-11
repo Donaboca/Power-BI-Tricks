@@ -6,6 +6,7 @@
   - [Käyttäjän valinta UDF-parametrina](#käyttäjän-valinta-udf-parametrina)
 - [Calculation Groups - Laskentaryhmät ](#calculation-groups---laskentaryhmät)
 - [Uutta Power BI:ssä (tammikuu 2026) - Porautuminen suoraan työkaluvihjeestä](#uutta-power-bissä-tammikuu-2026---porautuminen-suoraan-työkaluvihjeestä)
+- [Taulukko ja väripalkki selitteenä](#taulukko-ja-väripalkki-selitteenä)
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
@@ -98,3 +99,9 @@ Huom! Lievä hitaus porautumisessa johtuu todennäköisesti mallitiedoston tieto
 
 Uuden toiminnallisuuden myötä raportin käyttäjä pääsee porautumaan hieman helpommin tarkemmalle tasolle tietoon.
 ![](DrillThrough%20from%20Tooltip.gif)
+
+---
+### Taulukko ja väripalkki selitteenä
+Kumpi on selkeämpi? Toiseen lisätty väripalkki selitteeksi ilmaisemaan värisävyn merkitystä.
+
+![](Table%20visualization%20with%20color%20bar%20as%20a%20legend.png)
