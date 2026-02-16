@@ -7,6 +7,7 @@
 - [Calculation Groups - Laskentaryhmät ](#calculation-groups---laskentaryhmät)
 - [Uutta Power BI:ssä (tammikuu 2026) - Porautuminen suoraan työkaluvihjeestä](#uutta-power-bissä-tammikuu-2026---porautuminen-suoraan-työkaluvihjeestä)
 - [Taulukko ja väripalkki selitteenä](#taulukko-ja-väripalkki-selitteenä)
+- [Python-visualisointi](#python-visualisointi)
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
@@ -105,3 +106,13 @@ Uuden toiminnallisuuden myötä raportin käyttäjä pääsee porautumaan hieman
 Kumpi on selkeämpi? Toiseen lisätty väripalkki selitteeksi ilmaisemaan värisävyn merkitystä.
 
 ![](Table%20visualization%20with%20color%20bar%20as%20a%20legend.png)
+
+---
+### Python-visualisointi
+Pythonilla voi luoda visualisointeja Power BI -raporteille. Alla esimerkki laatikko- ja janakaaviosta (Boxplot). Ensin pätkä koodista ja sitten itse visualisointi.
+
+![](Py-koodi.png)
+
+![](Py-visu.png)
+
+---
