@@ -8,7 +8,7 @@
 - [Uutta Power BI:ssä (tammikuu 2026) - Porautuminen suoraan työkaluvihjeestä](#uutta-power-bissä-tammikuu-2026---porautuminen-suoraan-työkaluvihjeestä)
 - [Taulukko ja väripalkki selitteenä](#taulukko-ja-väripalkki-selitteenä)
 - [Python-visualisointi](#python-visualisointi)
-- [Uutta Power BI:ssä (helmikuu 2026) - Korttivisuaalin kategoriat ja suodatustoiminnallisuus](#uutta-power-bissä-helmikuu-2026---korttivisuaalin kategoriat ja suodatustoiminnallisuus)
+- [Uutta Power BI:ssä (helmikuu 2026) - Korttivisuaalin kategoriat ja suodatustoiminnallisuus](#uutta-power-bissä-helmikuu-2026---korttivisuaalin-kategoriat-ja-suodatustoiminnallisuus)
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
