@@ -9,6 +9,7 @@
 - [Taulukko ja väripalkki selitteenä](#taulukko-ja-väripalkki-selitteenä)
 - [Python-visualisointi](#python-visualisointi)
 - [Uutta Power BI:ssä (helmikuu 2026) - Korttivisuaalin kategoriat ja suodatustoiminnallisuus](#uutta-power-bissä-helmikuu-2026---korttivisuaalin-kategoriat-ja-suodatustoiminnallisuus)
+- [Power BI -raportin esimerkkisivu](#power-bi--raportin-esimerkkisivu)
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
@@ -121,3 +122,9 @@ Pythonilla voi luoda visualisointeja Power BI -raporteille. Alla esimerkki laati
 Kategoriat toimivat korttivisuaaleissa suodattimina:
 
 ![](Kategoriat%20suodattimena.gif)
+
+---
+### Power BI -raportin esimerkkisivu
+Raportissa on toistaiseksi hiukan hitautta. Taustalla on dataa > 50 M riviä. Korjaus rakentamalla mitaliarkkitehtuuriin kultatasolle aggregointitaulu.
+
+![](Junat-raportti.gif)
