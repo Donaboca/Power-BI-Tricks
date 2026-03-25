@@ -10,7 +10,7 @@
 - [Python-visualisointi](#python-visualisointi)
 - [Uutta Power BI:ssä (helmikuu 2026) - Korttivisuaalin kategoriat ja suodatustoiminnallisuus](#uutta-power-bissä-helmikuu-2026---korttivisuaalin-kategoriat-ja-suodatustoiminnallisuus)
 - [Power BI -raportin esimerkkisivu](#power-bi--raportin-esimerkkisivu)
-- [Uutta Power BI:ssä (maaliskuu 2026) - Viivakaavion selitteet](#uutta-power-bissä-maaliskuu-2026---viivakaavion-selitteet)
+- [Uutta Power BI:ssä (maaliskuu 2026) - Viivakaavion selitteet ja johtoviivat](#uutta-power-bissä-maaliskuu-2026---viivakaavion-selitteet-ja-johtoviivat)
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
@@ -132,8 +132,8 @@ Raportissa on toistaiseksi hiukan hitautta. Taustalla on dataa > 50 M riviä. Ko
 
 ---
 
-### Uutta Power BI:ssä (maaliskuu 2026) - Viivakaavion selitteet
-Kun selitteet asetetaan viivojen jatkeeksi, kaavio pysyy selkeänä myös tiheällä viivamäärällä.
+### Uutta Power BI:ssä (maaliskuu 2026) - Viivakaavion selitteet ja johtoviivat
+Kun selitteet asetetaan viivojen jatkeeksi, kaavio pysyy selkeänä myös tiheällä viivamäärällä. Johtoviivat taas yhdistävät itse viivan sarjanimeen.
 
 ![](Viivakaavio%20ja%20selitteet.png)
 
