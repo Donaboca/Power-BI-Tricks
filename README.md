@@ -2,7 +2,7 @@
 ## Sisällysluettelo
 - [Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus](#dynaaminen-power-bi-matriisin-rivien-ja-sarakkeiden-suodatus)
 - [User Defined Functions - Käyttäjän määrittelemät funktiot](#user-defined-functions---käyttäjän-määrittelemät-funktiot)
-  - [Toinen esimerkki UDF:n käytöstä](#Toinen-esimerkki-udfn-käytöstä)
+  - [Toinen esimerkki UDF:n käytöstä](#toinen-esimerkki-udfn-käytöstä)
   - [Käyttäjän valinta UDF-parametrina](#käyttäjän-valinta-udf-parametrina)
 - [Calculation Groups - Laskentaryhmät ](#calculation-groups---laskentaryhmät)
 - [Uutta Power BI:ssä (tammikuu 2026) - Porautuminen suoraan työkaluvihjeestä](#uutta-power-bissä-tammikuu-2026---porautuminen-suoraan-työkaluvihjeestä)
@@ -10,6 +10,7 @@
 - [Python-visualisointi](#python-visualisointi)
 - [Uutta Power BI:ssä (helmikuu 2026) - Korttivisuaalin kategoriat ja suodatustoiminnallisuus](#uutta-power-bissä-helmikuu-2026---korttivisuaalin-kategoriat-ja-suodatustoiminnallisuus)
 - [Power BI -raportin esimerkkisivu](#power-bi--raportin-esimerkkisivu)
+- [Uutta Power BI:ssä (maaliskuu 2026) - Viivakaavion selitteet](#uutta-power-bissä-maaliskuu-2026---viivakaavion-selitteet)
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
@@ -128,3 +129,12 @@ Kategoriat toimivat korttivisuaaleissa suodattimina:
 Raportissa on toistaiseksi hiukan hitautta. Taustalla on dataa > 50 M riviä. Korjaus rakentamalla mitaliarkkitehtuuriin kultatasolle aggregointitaulu.
 
 ![](Junat-raportti.gif)
+
+---
+
+### Uutta Power BI:ssä (maaliskuu 2026) - Viivakaavion selitteet
+Kun selitteet asetetaan viivojen jatkeeksi, kaavio pysyy selkeänä myös tiheällä viivamäärällä.
+
+![](Viivakaavio%20ja%20selitteet.png)
+
+---
