@@ -133,7 +133,7 @@ Raportissa on toistaiseksi hiukan hitautta. Taustalla on dataa > 50 M riviä. Ko
 ---
 
 ### Uutta Power BI:ssä (maaliskuu 2026) - Viivakaavion selitteet ja johtoviivat
-Kun selitteet asetetaan viivojen jatkeeksi, kaavio pysyy selkeänä myös tiheällä viivamäärällä. Johtoviivat taas yhdistävät itse viivan sarjanimeen.
+Kun selitteet asetetaan viivojen jatkeeksi, kaavio pysyy selkeänä myös tiheällä viivamäärällä. Johtoviivat taas yhdistävät itse viivan sarjan nimeen.
 
 ![](Viivakaavio%20ja%20selitteet.png)
 
