@@ -13,6 +13,7 @@
 - [Uutta Power BI:ssä (maaliskuu 2026)](#uutta-power-bissä-maaliskuu-2026)
   - [Viivakaavion selitteet ja johtoviivat](#viivakaavion-selitteet-ja-johtoviivat)
   - [Visualisointien moderni ulkoasu](#visualisointien-moderni-ulkoasu)
+- [Power BI Modelling MCP Server](#power-bi-modelling-mcp-server)
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
@@ -151,3 +152,12 @@ Jälkeen:
 
 
 ---
+
+### Power BI Modelling MCP Server
+Testasin tätä. Visualisointien tekeminen ei tuolta luonnistunut ollenkaan. Tai oli ainakin todella työlästä ja iterointikertoja kertyi reippaasti. Näin ainakin uuden korttivisun kohdalla.
+
+Mittareiden kuvausten asettaminen yhdellä kerralla onnistui hienosti, kuten esim. taulujen ja niiden välisten suhteiden listaus.
+
+![](Power%20BI%20Modelling%20MCP%20Server.gif)
+
+![](Power%20BI%20Modelling%20MCP%20Server%202.gif)
