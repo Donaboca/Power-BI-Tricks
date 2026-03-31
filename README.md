@@ -154,9 +154,8 @@ Jälkeen:
 ---
 
 ### Power BI Modelling MCP Server
-Testasin tätä. Visualisointien tekeminen ei tuolta luonnistunut ollenkaan. Tai oli ainakin todella työlästä ja iterointikertoja kertyi reippaasti. Näin ainakin uuden korttivisun kohdalla.
-
-Mittareiden kuvausten asettaminen yhdellä kerralla onnistui hienosti, kuten esim. taulujen ja niiden välisten suhteiden listaus.
+Testasin tätä. Mittareiden kuvausten asettaminen yhdellä kerralla onnistui hienosti, kuten esim. taulujen ja niiden välisten suhteiden listaus. 
+Mihin tämä soveltuu? Työkalun itsensä vastaamana: Power BI tools available to me are limited to semantic model management (tables, columns, measures, relationships, queries, etc.).
 
 ![](Power%20BI%20Modelling%20MCP%20Server.gif)
 
