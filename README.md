@@ -155,7 +155,12 @@ Jälkeen:
 
 ### Power BI Modelling MCP Server
 Testasin tätä. Mittareiden kuvausten asettaminen yhdellä kerralla onnistui hienosti, kuten esim. taulujen ja niiden välisten suhteiden listaus. 
-Mihin tämä soveltuu? Työkalun itsensä vastaamana: Power BI tools available to me are limited to semantic model management (tables, columns, measures, relationships, queries, etc.).
+Mihin tämä soveltuu? Microsoftin dokumentaation mukaan avainominaisuudet ovat:
+-   Natural language model editing - Create, update, and manage tables, columns, measures, and relationships across Power BI Desktop and Fabric semantic models using conversational commands
+- Bulk operations at scale - Execute batch operations on hundreds of objects simultaneously with transaction support and error handling
+- Best practice application - Evaluate and implement modeling best practices easily
+- Agentic development workflows - Work with TMDL and Power BI Project files, enabling AI agents to autonomously plan and execute complex modeling tasks
+- DAX query validation - Execute and validate DAX queries to test measures, troubleshoot calculations, and explore data
 
 ![](Power%20BI%20Modelling%20MCP%20Server.gif)
 
