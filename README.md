@@ -170,5 +170,5 @@ Mihin tämä soveltuu? Microsoftin dokumentaation mukaan avainominaisuudet ovat:
 ---
 
 ### Dynaaminen ranking RANKX-funktiolla
-
+Ratkaisussa mahdollistetaan raportin käyttäjän valita, montako topN tuotetta taulukkovisualisoinnissa näytetään.
 ![](Dynamic%20Ranking%20with%20RANKX.gif)
