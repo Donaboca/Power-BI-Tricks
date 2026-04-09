@@ -14,6 +14,7 @@
   - [Viivakaavion selitteet ja johtoviivat](#viivakaavion-selitteet-ja-johtoviivat)
   - [Visualisointien moderni ulkoasu](#visualisointien-moderni-ulkoasu)
 - [Power BI Modelling MCP Server](#power-bi-modelling-mcp-server)
+- [Dynaaminen ranking RANKX-funktiolla](#dynaaminen-ranking-rankx-funktiolla)
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
@@ -165,3 +166,9 @@ Mihin tämä soveltuu? Microsoftin dokumentaation mukaan avainominaisuudet ovat:
 ![](Power%20BI%20Modelling%20MCP%20Server.gif)
 
 ![](Power%20BI%20Modelling%20MCP%20Server%202.gif)
+
+---
+
+### Dynaaminen ranking RANKX-funktiolla
+
+![](Dynamic%20Ranking%20with%20RANKX.gif)
