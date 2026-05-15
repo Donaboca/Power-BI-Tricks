@@ -180,6 +180,5 @@ Ratkaisussa mahdollistetaan raportin käyttäjän valita, montako topN tuotetta 
 ### Viivakaavion merkkien ehdollinen muotoilu
 Viivakaavioiden merkkeihin ei voi kohdistaa ehdollista muotoilua suoraan kaavion asetuksista. Mutta se onnistuu kuitenkin helposti. Alla esimerkki lopputuloksesta (sen ei ole tarkoitus olla hieno vaan havainnollistava).
 
-![](Conditional%20formatting%20of%20markers.png)
 
 ---
