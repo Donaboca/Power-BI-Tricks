@@ -15,6 +15,7 @@
   - [Visualisointien moderni ulkoasu](#visualisointien-moderni-ulkoasu)
 - [Power BI Modelling MCP Server](#power-bi-modelling-mcp-server)
 - [Dynaaminen ranking RANKX-funktiolla](#dynaaminen-ranking-rankx-funktiolla)
+- [Viivakaavion merkkien ehdollinen muotoilu](#viivakaavion-merkkien-ehdollinen-muotoilu)
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
@@ -129,6 +130,11 @@ Kategoriat toimivat korttivisuaaleissa suodattimina:
 ![](Kategoriat%20suodattimena.gif)
 
 ---
+
+### Viivakaavion merkkien ehdollinen muotoilu
+Viivakaavioiden merkkeihin ei voi kohdistaa ehdollista muotoilua suoraan kaavion asetuksista. Mutta se onnistuu kuitenkin helposti. Alla esimerkki lopputuloksesta (sen ei ole tarkoitus olla hieno vaan havainnollistava).
+
+![](Conditional formatting of markers.png)
 ### Power BI -raportin esimerkkisivu
 Raportissa on toistaiseksi hiukan hitautta. Taustalla on dataa > 50 M riviä. Korjaus rakentamalla mitaliarkkitehtuuriin kultatasolle aggregointitaulu.
 
@@ -172,3 +178,5 @@ Mihin tämä soveltuu? Microsoftin dokumentaation mukaan avainominaisuudet ovat:
 ### Dynaaminen ranking RANKX-funktiolla
 Ratkaisussa mahdollistetaan raportin käyttäjän valita, montako topN tuotetta taulukkovisualisoinnissa näytetään.
 ![](Dynamic%20Ranking%20with%20RANKX.gif)
+
+---
