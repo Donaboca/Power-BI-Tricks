@@ -16,6 +16,7 @@
 - [Power BI Modelling MCP Server](#power-bi-modelling-mcp-server)
 - [Dynaaminen ranking RANKX-funktiolla](#dynaaminen-ranking-rankx-funktiolla)
 - [Viivakaavion merkkien ehdollinen muotoilu](#viivakaavion-merkkien-ehdollinen-muotoilu)
+- [Väri ilmaisemaan dynaamisesti min ja max arvoja](#väri-ilmaisemaan-dynaamisesti-min-ja-max-arvoja)
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
@@ -182,3 +183,8 @@ Viivakaavioiden merkkeihin ei voi kohdistaa ehdollista muotoilua suoraan kaavion
 
 ![](Conditional%20formatting%20of%20markers.png)
 ---
+
+### Väri ilmaisemaan dynaamisesti min ja max arvoja
+Visualisointeihin saa helposti värin korostamaan dynaamisesti minimi- ja maksimiarvoja. Ilman DAX:a! Alla esimerkki lopputuloksesta (ilman visuaalista näyttävyyttä).
+
+![](Dynamic%20Color%20for%20min%20and%20max%20bars.gif)
