@@ -187,4 +187,4 @@ Viivakaavioiden merkkeihin ei voi kohdistaa ehdollista muotoilua suoraan kaavion
 ### Väri ilmaisemaan dynaamisesti min ja max arvoja
 Visualisointeihin saa helposti värin korostamaan dynaamisesti minimi- ja maksimiarvoja. Ilman DAX:a! Alla esimerkki lopputuloksesta (ilman visuaalista näyttävyyttä).
 
-![](Dynamic%20Color%20for%20min%20and%20max%20bars.gif)
+![](Dynamic%20Color%20for%20min%20and%20max%20values.gif)
