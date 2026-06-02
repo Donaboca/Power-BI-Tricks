@@ -17,6 +17,7 @@
 - [Dynaaminen ranking RANKX-funktiolla](#dynaaminen-ranking-rankx-funktiolla)
 - [Viivakaavion merkkien ehdollinen muotoilu](#viivakaavion-merkkien-ehdollinen-muotoilu)
 - [Väri ilmaisemaan dynaamisesti min ja max arvoja](#väri-ilmaisemaan-dynaamisesti-min-ja-max-arvoja)
+- [Väri korostamaan top n arvoja UDF:n avulla](#väri-korostamaan-top-n-arvoja-udfn-avulla)
  
 --- 
 ### Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus
@@ -188,3 +189,17 @@ Viivakaavioiden merkkeihin ei voi kohdistaa ehdollista muotoilua suoraan kaavion
 Visualisointeihin saa helposti värin korostamaan dynaamisesti minimi- ja maksimiarvoja. Ilman DAX:a! Alla esimerkki lopputuloksesta (ilman visuaalista näyttävyyttä).
 
 ![](Dynamic%20Color%20for%20min%20and%20max%20values.gif)
+
+
+---
+
+### Väri korostamaan top n arvoja UDF:n avulla
+
+Tapoja tähän on useita, mutta yksi on tehdä se UDF:n avulla, jolloin ylläpitotyö helpottuu.
+- Luodaan UDF, joka tässä tapauksessa saa parametrina arvon ja sen mukaan näyttää top 3 arvoille värin.
+- Luodaan mittari, joka laskee top 3 arvot - tässä tapauksessa maanosan maista - ja kutsuu UDF:ää parametrin kera.
+- Taulukon sarakkeeseen asetetaan taustavärin ehdollinen muotoilu, joka hyödyntää luotua mittaria.
+
+Kuvassa esimerkki lopputuloksesta.
+
+![](UDF%20TopN%20colors.gif)
