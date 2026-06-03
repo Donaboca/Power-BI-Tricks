@@ -195,11 +195,11 @@ Visualisointeihin saa helposti värin korostamaan dynaamisesti minimi- ja maksim
 
 ### Väri korostamaan top n arvoja UDF:n avulla
 
-Tapoja tähän on useita, mutta yksi on tehdä se UDF:n avulla, jolloin ylläpitotyö helpottuu.
+Tapoja tähän on useita, mutta yksi hyvä on tehdä se UDF:n avulla, jolloin ylläpitotyö helpottuu.
 - Luodaan UDF, joka tässä tapauksessa saa parametrina arvon ja sen mukaan näyttää top 3 arvoille värin.
 - Luodaan mittari, joka laskee top 3 arvot - tässä tapauksessa maanosan maista - ja kutsuu UDF:ää parametrin kera.
 - Taulukon sarakkeeseen asetetaan taustavärin ehdollinen muotoilu, joka hyödyntää luotua mittaria.
 
-Kuvassa esimerkki lopputuloksesta.
+Kuvassa esimerkki kahdesta eri lopputuloksesta. Korostus samalla värillä tai värin eri sävyillä.
 
 ![](UDF%20TopN%20colors.gif)
