@@ -1,7 +1,7 @@
 # Power BI Tricks
 
 ## Sisällysluettelo
-- [Agenttipohjainen raporttikehitys](#agenttipojainen-raporttikehitys)
+- [29.10.2026 - Agenttipohjainen raporttikehitys](#29102026---agenttipohjainen-raporttikehitys)
 - [Väri korostamaan top n arvoja UDF:n avulla](#väri-korostamaan-top-n-arvoja-udfn-avulla)
 - [Väri ilmaisemaan dynaamisesti min ja max arvoja](#väri-ilmaisemaan-dynaamisesti-min-ja-max-arvoja)
 - [Viivakaavion merkkien ehdollinen muotoilu](#viivakaavion-merkkien-ehdollinen-muotoilu)
@@ -22,7 +22,7 @@
 - [Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus](#dynaaminen-power-bi-matriisin-rivien-ja-sarakkeiden-suodatus)
 
 ---
-### Agenttipohjainen raporttikehitys
+### 29.10.2026 - Agenttipohjainen raporttikehitys
 Kuvissa esimerkit lopputuloksesta (yksi iteraatio) ilmaisilla välineillä tehdystä 2-sivuisen raportin luomisesta. Välineinä VS Code, Github-Copilot ja tarvittavat "kilkkeet", kuten Power BI Authoring MCP Server. 
 
 Käytin datana Microsoftin AdventureWorks datasettia import modessa. Kaikki importin jälkeinen on pyydetty luonnollisella kielellä Github-Copilotilta, mm.: Taulujen väliset relaatiot ja niiden välisissä suhteissä käytettyjen avainten piilottaminen, 10 mittaria ja raporttisivujen korkean tason kuvaukset. Aikaa tuohon meni < 1 h.
