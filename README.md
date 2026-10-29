@@ -23,7 +23,7 @@
 
 ---
 ### 29.10.2026 - Agenttipohjainen raporttikehitys
-Kuvissa esimerkit lopputuloksesta (yksi iteraatio) ilmaisilla välineillä tehdystä 2-sivuisen raportin luomisesta. Välineinä VS Code, Github-Copilot ja tarvittavat "kilkkeet", kuten Power BI Authoring MCP Server. 
+Kuvissa esimerkki 2-sivuisen raportin lopputuloksesta (yksi iteraatio). Työssä käytetty ilmaisia välineitä, kuten VS Code, Github-Copilot ja tarvittavat "kilkkeet", kuten Power BI Authoring MCP Server. 
 
 Käytin datana Microsoftin AdventureWorks datasettia import modessa. Kaikki importin jälkeinen on pyydetty luonnollisella kielellä Github-Copilotilta, mm.: Taulujen väliset relaatiot ja niiden välisissä suhteissä käytettyjen avainten piilottaminen, 10 mittaria ja raporttisivujen korkean tason kuvaukset. Aikaa tuohon meni < 1 h.
 
