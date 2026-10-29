@@ -124,12 +124,15 @@ Uuden toiminnallisuuden myötä raportin käyttäjä pääsee porautumaan hieman
 Laskentaryhmillä saadaan mukavasti rajoitettua mittarien määrää, jolloin ylläpidosta tulee helpompaa ja datapaneeli pysyy kuosissa. Alla tästä esimerkki.
 
 Perusmittari
+
 ![Esimerkki perusmittarista](CG%20Measure.png)
 
 Laskentaryhmään tehty neljä eri aikalaskentaa.
+
 ![Laskentaryhmä](CG%20Model.png)
 
 Yksittäisen laskentakohteen koodi.
+
 ![Yksittäisen laskentakohteen koodi](CG%20Code.png)
 
 Esimerkki lopputuloksesta visualisoinnin muodossa.
