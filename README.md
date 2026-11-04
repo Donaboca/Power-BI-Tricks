@@ -1,6 +1,7 @@
 # Power BI Tricks
 
 ## Sisällysluettelo
+- [04.11.206 - SemPy ja XMLA endpoint - semanttinen malli ohjelmallisesti](#04112026---sempy-ja-xmla-endpoint---semanttinen-malli-ohjelmallisesti)
 - [29.10.2026 - Agenttipohjainen raporttikehitys](#29102026---agenttipohjainen-raporttikehitys)
 - [Väri korostamaan top n arvoja UDF:n avulla](#väri-korostamaan-top-n-arvoja-udfn-avulla)
 - [Väri ilmaisemaan dynaamisesti min ja max arvoja](#väri-ilmaisemaan-dynaamisesti-min-ja-max-arvoja)
@@ -22,6 +23,24 @@
 - [Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus](#dynaaminen-power-bi-matriisin-rivien-ja-sarakkeiden-suodatus)
 
 ---
+### 04.11.2026 - SemPy ja XMLA endpoint - semanttinen malli ohjelmallisesti
+SemPy-kirjaston avulla voidaan mm.
+- Lukea Power BI -malleja: Voidaan ajaa DAX-kyselyitä suoraan Python-koodissa ja tuoda PBI-mittarit ja -taulukot Pandas- tai Fabric-dataframe muotoon.
+- Visualisoida tietomallien suhteet.
+- Tutkia metadataa.
+- Analysoida suorituskykyä.
+- Käynnistää ja ajastaa mallien datapäivityksiä.
+
+Esimerkkejä mitä mallista saadaan irti koodin avulla. Datan laatuun liittyviä tarkastuksia:
+![](6%20Data%20Quality.png)
+
+Suorityskyvyn mittauksia:
+![](7%20Memory%20Analyzer.png)
+
+Suhteiden "visualisointi":
+![](8%20Relationship%20Plot.png)
+---
+
 ### 29.10.2026 - Agenttipohjainen raporttikehitys
 Kuvissa esimerkki 2-sivuisen raportin lopputuloksesta (yksi iteraatio). Työssä käytetty ilmaisia välineitä, kuten VS Code, Github-Copilot ja tarvittavat "kilkkeet", kuten Power BI Authoring MCP Server. 
 
