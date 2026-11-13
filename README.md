@@ -1,7 +1,8 @@
 # Power BI Tricks
 
 ## Sisällysluettelo
-- [04.11.206 - SemPy ja XMLA endpoint - semanttinen malli ohjelmallisesti](#04112026---sempy-ja-xmla-endpoint---semanttinen-malli-ohjelmallisesti)
+- [13.11.2026 - Otsikot tuomaan kontekstia visuaaleihin](#13222026---otsikot-tuomaan-kontekstia-visuaaleihin)
+- [04.11.2026 - SemPy ja XMLA endpoint - semanttinen malli ohjelmallisesti](#04112026---sempy-ja-xmla-endpoint---semanttinen-malli-ohjelmallisesti)
 - [29.10.2026 - Agenttipohjainen raporttikehitys](#29102026---agenttipohjainen-raporttikehitys)
 - [Väri korostamaan top n arvoja UDF:n avulla](#väri-korostamaan-top-n-arvoja-udfn-avulla)
 - [Väri ilmaisemaan dynaamisesti min ja max arvoja](#väri-ilmaisemaan-dynaamisesti-min-ja-max-arvoja)
@@ -21,6 +22,11 @@
 - [Toinen esimerkki UDF:n käytöstä](#toinen-esimerkki-udfn-käytöstä)
 - [User Defined Functions - Käyttäjän määrittelemät funktiot](#user-defined-functions---käyttäjän-määrittelemät-funktiot)
 - [Dynaaminen Power BI matriisin rivien ja sarakkeiden suodatus](#dynaaminen-power-bi-matriisin-rivien-ja-sarakkeiden-suodatus)
+
+---
+### 13.11.2026 - Otsikot tuomaan kontekstia visuaaleihin
+
+![](Konteksti.gif)
 
 ---
 ### 04.11.2026 - SemPy ja XMLA endpoint - semanttinen malli ohjelmallisesti
