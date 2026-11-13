@@ -1,7 +1,7 @@
 # Power BI Tricks
 
 ## Sisällysluettelo
-- [13.11.2026 - Otsikot tuomaan kontekstia visuaaleihin](#13222026---otsikot-tuomaan-kontekstia-visuaaleihin)
+- [13.11.2026 - Otsikot tuomaan kontekstia visuaaleihin](#13112026---otsikot-tuomaan-kontekstia-visuaaleihin)
 - [04.11.2026 - SemPy ja XMLA endpoint - semanttinen malli ohjelmallisesti](#04112026---sempy-ja-xmla-endpoint---semanttinen-malli-ohjelmallisesti)
 - [29.10.2026 - Agenttipohjainen raporttikehitys](#29102026---agenttipohjainen-raporttikehitys)
 - [Väri korostamaan top n arvoja UDF:n avulla](#väri-korostamaan-top-n-arvoja-udfn-avulla)
